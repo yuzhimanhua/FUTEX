@@ -1,4 +1,5 @@
-# FUTEX
-Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers (KDD'23)
+# Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers
 
-**We are finalizing our code and will make it available before the KDD conference. Thank you for your patience!**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This repository contains the datasets and source code used in our paper [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003).
