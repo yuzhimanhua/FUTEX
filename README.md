@@ -124,7 +124,6 @@ If you find this repository useful, please cite the following paper:
   author={Zhang, Yu and Jin, Bowen and Chen, Xiusi and Shen, Yanzhen and Zhang, Yunyi and Meng, Yu and Han, Jiawei},
   booktitle={KDD'23},
   pages={3458--3469},
-  year={2023},
-  organization={ACM}
+  year={2023}
 }
 ```
